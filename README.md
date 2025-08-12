@@ -2,7 +2,7 @@
 Contenido Curso ISTA 2025
 
 
-# Python: Conceptos de Aplicaciones en Producción
+# Python: Análisis de Datos y Entornos Analíticos Modernos
 
 En este repositorio se compartiran todos los recursos aplicables a las clases, así como las presentaciones y las grabaciones correspondientes.
 
