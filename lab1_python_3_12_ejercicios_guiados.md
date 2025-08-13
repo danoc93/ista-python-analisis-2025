@@ -122,4 +122,3 @@ python3.12 --version
 ### Notas finales
 - Mantén las **capturas de excepción explícitas** (evita bloques genéricos que oculten problemas).  
 - Nombra con claridad funciones y variables; escribe **mensajes de error útiles**.  
-- Si te atascas, consulta la documentación oficial y pregunta a este asistente.
