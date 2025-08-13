@@ -1,6 +1,6 @@
-# Laboratorio de Python 3.12 – Ejercicios guiados (Funciones, Métodos, Excepciones y Decoradores)
+# Laboratorio
 
----
+Ejercicios guiados (Funciones, Métodos, Excepciones y Decoradores)
 
 ## 0) Objetivos
 - Verificar instalación de **Python 3.12**.
