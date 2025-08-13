@@ -60,6 +60,9 @@ python3.12 --version
 1) Implementa **tres** funciones: `saludar(nombre)`, `despedir(nombre)`, `aplaudir(nombre)` que devuelvan mensajes.  
 2) Crea un diccionario `acciones` que mapee nombres de acción (`"saludar"`, `"despedir"`, `"aplaudir"`) a las **funciones**.  
 3) Implementa `ejecutar(accion, *args, **kwargs)` que busque la función por nombre y la ejecute.  
+
+> *args y **kwargs son conceptos muy escenciales en Python, usa las fuentes que necesites para entender como funcionan.
+
 **Criterios de aceptación:**  
 - `ejecutar("saludar", "Ana")` devuelve `"Hola, Ana"`.  
 - Si se solicita una acción inexistente, se lanza una **excepción** clara.
