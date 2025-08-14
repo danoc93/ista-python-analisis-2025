@@ -12,8 +12,7 @@ En este repositorio se compartiran todos los recursos aplicables a las clases, a
 
 - [Sala de clases](https://us06web.zoom.us/meeting/register/tZAtfuqgrzMjHNw6VF0Bglyx_RmQp5DyuXnK)
 
-- [Google form de registro de repositorios para proyectos y laboratorios](https://docs.google.com/forms/d/e/1FAIpQLSdj_q__PLBJk9iXBou3AcjkUO2UCfkvPLiL0O_HuxBmcx4SZQ/viewform?usp=sharin
-g&ouid=113318428653047231876)
+- [Google form de registro de repositorios para proyectos y laboratorios](https://docs.google.com/forms/d/e/1FAIpQLSdj_q__PLBJk9iXBou3AcjkUO2UCfkvPLiL0O_HuxBmcx4SZQ/viewform?usp=sharing&ouid=113318428653047231876)
 
 
 > A pesar de ser opcionales, cada laboratorio subido a GitHub otorga un 1,5% adicional a la nota, hasta un máximo de 8% por todos los laboratorios.
