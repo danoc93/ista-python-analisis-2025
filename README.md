@@ -27,12 +27,16 @@ En este repositorio se compartiran todos los recursos aplicables a las clases, a
 
 [Aug 13, Clase 2](./Clase%202%20-%20Intro%20Python.pdf)
 
-[Aug 13, Clase 3](./Clase%203%20-%20Modulos%20y%20tipos.pdf)
+[Aug 14, Clase 3](./Clase%203%20-%20Modulos%20y%20tipos.pdf)
+
+[Aug 18, Clase 4](./Clase%204%20-%20Entornos%20Aislados.pdf)
 
 ### Laboratorios
 [Aug 13, Clase 2](./lab1_python_3_12_ejercicios_guiados.md)
 
 [Aug 13, Clase 3](./lab2_modulos_paquetes_tipado_python_3_12.md)
+
+[Aug 18, Clase 4](./lab3_codespaces_ruff.md)
 
 ## Grabaciones Clases Previas
 
@@ -41,3 +45,5 @@ Usar acceso: `ista2025+`
 [Clase 1](https://us06web.zoom.us/rec/share/Xg_9rC5D2uF3cy6RwxDccMHaVoM7bEvvNir5RnUFY-5NzppK_lPXIiAWGJYThW5c.09rvb4XbB-t5-j4d)
 
 [Clase 2](https://us06web.zoom.us/rec/share/nyr8siTCvVTxuC9qiPQC6-V2yuQFW17RX7jLhZEC8lNT51pt3ism0HugwoFuQf_c.QgANJH4feTaWG2Ls)
+
+[Clase 3](https://us06web.zoom.us/rec/share/8GLid4R-FKYPtjRI2_wDZWFWRQakRYWnmwYea05TetfDIqZd7PrrLhkyJuMxoOei.cazPHZ7Dxikej5m4)
