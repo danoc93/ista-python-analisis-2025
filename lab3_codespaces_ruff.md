@@ -134,7 +134,6 @@ Trabajaremos en el entorno de Codespaces empleando todas las herramientas revisa
 
 **Docs:**
 - CircleCI – Getting Started: https://circleci.com/docs/getting-started/
-- CircleCI – Python: https://circleci.com/docs/languages/python/
 
 **Sugerencias generales de CI:**
 - Cachea dependencias para acelerar.
