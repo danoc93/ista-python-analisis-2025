@@ -6,8 +6,7 @@ Trabajaremos en el entorno de Codespaces empleando todas las herramientas revisa
 
 ## 0) Objetivos
 - Entender como usar **GitHub Codespaces**
-- Aprender a gestionar un **entorno virtual** de Python, generar un **archivo de requisitos** y **instalar** dependencias.
-- Añadir un **módulo de ejemplo** con dos funciones y **tipado estático intencionalmente incompleto** para provocar avisos.
+- Aprender a gestionar un **entorno virtual** de Python, generar un **archivo de requisitos** e **instalar** dependencias.
 - Instalar y ejecutar **ruff** (lint/format) y **mypy** (type checking).
 - *(Opcional)* Configurar **pytest** y escribir **un par de pruebas automatizadas**.
 - *(Opcional)* Explorar **CI** con **GitHub Actions** o **CircleCI**.
