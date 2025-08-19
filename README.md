@@ -31,12 +31,17 @@ En este repositorio se compartiran todos los recursos aplicables a las clases, a
 
 [Aug 18, Clase 4](./Clase%204%20-%20Entornos%20Aislados.pdf)
 
+[Aug 19, Clase 5](./Clase%205%20-%20Testing%2C%20Procesamiento%20de%20Datos.pdf)
+
 ### Laboratorios
 [Aug 13, Clase 2](./lab1_python_3_12_ejercicios_guiados.md)
 
 [Aug 13, Clase 3](./lab2_modulos_paquetes_tipado_python_3_12.md)
 
 [Aug 18, Clase 4](./lab3_codespaces_ruff.md)
+
+[Aug 19, Clase 5](./lab_clase5_pytest_csv_python_3_12.md)
+
 
 ## Grabaciones Clases Previas
 
@@ -47,3 +52,5 @@ Usar acceso: `ista2025+`
 [Clase 2](https://us06web.zoom.us/rec/share/nyr8siTCvVTxuC9qiPQC6-V2yuQFW17RX7jLhZEC8lNT51pt3ism0HugwoFuQf_c.QgANJH4feTaWG2Ls)
 
 [Clase 3](https://us06web.zoom.us/rec/share/8GLid4R-FKYPtjRI2_wDZWFWRQakRYWnmwYea05TetfDIqZd7PrrLhkyJuMxoOei.cazPHZ7Dxikej5m4)
+
+[Clase 4](https://us06web.zoom.us/rec/share/-qAOCRS_-LPk2IjlEHKAmI8E8hjx62KIvpxD50JdJ3J_dpj-j9zbHaYtatiQceHE.B5Ka9XqwDcDyrdj8)
