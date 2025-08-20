@@ -9,7 +9,7 @@ El proyecto equivale al 100% de la nota del curso.
 
 - El proyecto debe ejecutarse en un **entorno aislado**: GitHub Codespaces, Docker o local con `venv`.
 - Sólo se deben incluir en el repositorio los **archivos del proyecto**.
-- **No** se deben incluir snapshots completos de datos, únicamente artefactos ligeros como tablas de perfilado o reportes finales.
+- **No** se deben incluir snapshots completos de datos, únicamente artefactos ligeros como tablas de perfilado o reportes finales tal como indiquen las instrucciones.
 
 ---
 
@@ -93,6 +93,8 @@ Con esto se levanta la **UI de Dagster** en http://localhost:3000, donde podrán
    - Mínimo y máximo de `new_cases`.
    - Porcentaje de valores faltantes en `new_cases` y `people_vaccinated`.
    - Rango de fechas cubierto.
+
+**IMPORTANTE**
 
 Guardar la tabla de perfilado como `tabla_perfilado.csv` y commitearla.
 
@@ -182,10 +184,14 @@ Crea una metrica de interes, por ejemplo valida que `incidencia_7d`: `0 ≤ valo
 ### Paso 6 — Exportación de Resultados
 
 **Paso `reporte_excel_covid`**:
-- Exportar únicamente resultados finales (no intermedios) a un archivo de Excel.
+- Exportar únicamente resultados finales (no intermedios) a un archivo Excel o varios CSV.
     - Datos puros procesados
     - Hoja metrica 1
     - Hoja metrica 2
+ 
+**IMPORTANTE**
+
+Guardar los archivos del reporte y comitealo.
 
 ---
 
@@ -212,7 +218,7 @@ Crea una metrica de interes, por ejemplo valida que `incidencia_7d`: `0 ≤ valo
 
 ---
 
-## Criterios de Evaluación (100 pts)
+## Criterios de Evaluación
 
 Con el fin de realizar el proyecto se pueden referenciar:
 
