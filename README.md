@@ -18,7 +18,7 @@ En este repositorio se compartiran todos los recursos aplicables a las clases, a
 > A pesar de ser opcionales, cada laboratorio subido a GitHub otorga un 1,5% adicional a la nota, hasta un máximo de 8% por todos los laboratorios.
 
 
-- [Proyecto Final](./proyecto.pdf)
+- [Proyecto Final](./proyecto.md)
   
 ⚠️ Fecha de cierre: 2025-08-31 11:59PM
 
