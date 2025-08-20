@@ -98,6 +98,8 @@ Guardar la tabla de perfilado como `tabla_perfilado.csv` y commitearla.
 
 ---
 
+Ahora procederemos a automatizar todo este proceso:
+
 ### Paso 2 — Lectura de Datos en Dagster (sin transformar) + Chequeos de Entrada
 
 1) **Paso `leer_datos`**
@@ -106,8 +108,8 @@ Guardar la tabla de perfilado como `tabla_perfilado.csv` y commitearla.
    - No aplicar limpieza ni filtros todavía.
 
 2) Agregar chequeos de entrada
-   - Consumir `leer_datos` y ejecutar chequeos.
-   - Ejemplos de reglas (escojan 1):
+   - Consumir `leer_datos` y ejecutar chequeos, crear 1 o 2.
+   - Ejemplos de reglas:
      - `max(date) ≤ hoy` (no fechas futuras).
      - Columnas clave no nulas: `location`, `date`, `population`.
      - Unicidad de `(location, date)`.
