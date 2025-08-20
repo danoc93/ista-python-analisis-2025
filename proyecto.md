@@ -82,7 +82,7 @@ Con esto se levanta la **UI de Dagster** en http://localhost:3000, donde podrán
 ### Paso 1 — Exploración Manual de Datos (EDA)
 
 1. Ir a [OWID COVID-19 Data](https://ourworldindata.org/covid-data).
-2. Filtrar por **Ecuador** y un país comparativo.
+2. Filtrar por **Ecuador** y un país comparativo (el que prefieras).
 3. Descargar manualmente el CSV.
 
    ![Filtros seleccionados](./ref_descarga.png)
