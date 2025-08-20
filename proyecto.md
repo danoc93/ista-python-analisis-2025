@@ -183,7 +183,7 @@ Crea una metrica de interes, por ejemplo valida que `incidencia_7d`: `0 ≤ valo
 
 **Paso `reporte_excel_covid`**:
 - Exportar únicamente resultados finales (no intermedios) a un archivo de Excel.
-    - Datos procesados
+    - Datos puros procesados
     - Hoja metrica 1
     - Hoja metrica 2
 
