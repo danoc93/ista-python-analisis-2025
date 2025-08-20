@@ -18,7 +18,9 @@ En este repositorio se compartiran todos los recursos aplicables a las clases, a
 > A pesar de ser opcionales, cada laboratorio subido a GitHub otorga un 1,5% adicional a la nota, hasta un máximo de 8% por todos los laboratorios.
 
 
-- ⚠️ Proyecto Final - Disponible pronto
+- [Proyecto Final](./proyecto.pdf)
+  
+⚠️ Fecha de cierre: 2025-08-31 11:59PM
 
 ## Recursos
 
@@ -33,6 +35,8 @@ En este repositorio se compartiran todos los recursos aplicables a las clases, a
 
 [Aug 19, Clase 5](./Clase%205%20-%20Testing%2C%20Procesamiento%20de%20Datos.pdf)
 
+[Aug 19, Clase 6](./Clase%206%20-%20Analisis%20en%20Python.pdf)
+
 ### Laboratorios
 [Aug 13, Clase 2](./lab1_python_3_12_ejercicios_guiados.md)
 
@@ -41,6 +45,8 @@ En este repositorio se compartiran todos los recursos aplicables a las clases, a
 [Aug 18, Clase 4](./lab3_codespaces_ruff.md)
 
 [Aug 19, Clase 5](./lab_clase5_pytest_csv_python_3_12.md)
+
+[Aug 20, Clase 6](./lab_analisis_pandas.md)
 
 
 ## Grabaciones Clases Previas
@@ -54,3 +60,6 @@ Usar acceso: `ista2025+`
 [Clase 3](https://us06web.zoom.us/rec/share/8GLid4R-FKYPtjRI2_wDZWFWRQakRYWnmwYea05TetfDIqZd7PrrLhkyJuMxoOei.cazPHZ7Dxikej5m4)
 
 [Clase 4](https://us06web.zoom.us/rec/share/-qAOCRS_-LPk2IjlEHKAmI8E8hjx62KIvpxD50JdJ3J_dpj-j9zbHaYtatiQceHE.B5Ka9XqwDcDyrdj8)
+
+[Clase 5](https://us06web.zoom.us/rec/share/EspgLfoR4p0W7hbIJBoFnAof976_Jk4ShLLX1JZoJwtre8LXeNJvik0iL-S7IUu1.E8n0_MamUOxEDVfr )
+
