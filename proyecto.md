@@ -127,7 +127,7 @@ Ahora procederemos a automatizar todo este proceso:
 **Paso `datos_procesados`** (consume `leer_datos`):
 - Eliminar filas con valores nulos en `new_cases` o `people_vaccinated`.
 - Eliminar duplicados si existen (documentar la estrategia).
-- Filtrar a **Ecuador** y al país comparativo.
+- Filtrar a **Ecuador** y al país comparativo que escogiste en la primera parte.
 - Seleccionar columnas esenciales: `location`, `date`, `new_cases`, `people_vaccinated`, `population`.
 - Devolver un `DataFrame` listo para métricas (no persistir intermedios).
 
