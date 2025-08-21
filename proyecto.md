@@ -46,8 +46,10 @@ El proyecto se centrará en **Ecuador** y un país comparativo.
 En la raíz del repositorio, crear un archivo `requirements.txt`:
 
 ```txt
+create-dagster
 dagster
 dagster-webserver
+dagster-dg-cli
 pandas
 duckdb
 pyarrow
@@ -63,13 +65,9 @@ pip install -r requirements.txt
 
 ### Scaffold de Dagster
 
-Generar el proyecto y correr el servidor de desarrollo:
+Para instrucciones de como crear tu primer proyecto, seguir los tutoriales oficiales, o el [tutorial de la clase](./githubcodespaces_dagster_tutorial.md)
 
-```bash
-dagster project scaffold --name pipeline_covid
-cd pipeline_covid
-dagster dev
-```
+Generar el proyecto y correr el servidor de desarrollo:
 
 Con esto se levanta la **UI de Dagster** en http://localhost:3000, donde podrán observar la ejecución de **assets** y los resultados de **chequeos**.
 
