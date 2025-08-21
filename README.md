@@ -15,7 +15,7 @@ En este repositorio se compartiran todos los recursos aplicables a las clases, a
 - [Google form de registro de repositorios para proyectos y laboratorios](https://docs.google.com/forms/d/e/1FAIpQLSdj_q__PLBJk9iXBou3AcjkUO2UCfkvPLiL0O_HuxBmcx4SZQ/viewform?usp=sharing&ouid=113318428653047231876)
 
 
-> A pesar de ser opcionales, cada laboratorio subido a GitHub otorga un 1,5% adicional a la nota, hasta un máximo de 8% por todos los laboratorios.
+> A pesar de ser opcionales, cada laboratorio subido a GitHub otorga un 1,5% adicional a la nota, hasta un máximo de 7.5% por todos los laboratorios.
 
 
 - [Proyecto Final](./proyecto.md)
