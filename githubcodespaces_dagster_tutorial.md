@@ -1,3 +1,5 @@
+## Instalar
+
 Pasos si usas GitHub Codespaces (de 0 a UI)
 
 1. **Crea un repo** en GitHub (por ejemplo `ejemplo`).
@@ -48,7 +50,7 @@ Pasos si usas GitHub Codespaces (de 0 a UI)
 
 ---
 
-# 3) Construye el flujo de ejemplo (assets + checks + automation)
+## Construye el flujo de ejemplo (assets + checks + automation)
 
 **Objetivo:** `clientes → nombres_preparados → nombres_por_persona → cuentas_todas_positivas (check) → generar_reporte`
 
