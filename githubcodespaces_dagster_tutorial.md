@@ -135,7 +135,7 @@ def generar_reporte(nombres_por_persona: pd.DataFrame) -> int:
 
 
 
-[1] https://docs.dagster.io/etl-pipeline-tutorial?utm_source=chatgpt.com "Build an ETL Pipeline | Dagster Docs"
+[1]: https://docs.dagster.io/etl-pipeline-tutorial?utm_source=chatgpt.com "Build an ETL Pipeline | Dagster Docs"
 [2]: https://docs.dagster.io/etl-pipeline-tutorial/automate-your-pipeline?utm_source=chatgpt.com "Automate your pipeline | Dagster Docs"
 [3]: https://docs.dagster.io/etl-pipeline-tutorial/data-quality?utm_source=chatgpt.com "Ensure data quality with asset checks | Dagster Docs"
 [4]: https://docs.dagster.io/etl-pipeline-tutorial/visualize-data?utm_source=chatgpt.com "Build a dashboard to visualize data | Dagster Docs"
