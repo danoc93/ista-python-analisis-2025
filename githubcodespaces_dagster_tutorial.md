@@ -126,7 +126,7 @@ def generar_reporte(nombres_por_persona: pd.DataFrame) -> int:
 
 ---
 
-# 4) Observar en la UI
+## Observaciones
 
 * **Materializar `clientes`** (o esperar al cron), ver **lineage** y dependencias. ([docs.dagster.io][8])
 * **Ver metadata** agrega metadatos usando `context` en todos los assets `nombres_preparados`. 
