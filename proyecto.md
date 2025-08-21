@@ -57,12 +57,6 @@ openpyxl
 requests
 ```
 
-Instalar dependencias:
-
-```bash
-pip install -r requirements.txt
-```
-
 ### Scaffold de Dagster
 
 Para instrucciones de como crear tu primer proyecto, seguir los tutoriales oficiales, o el [tutorial de la clase](./githubcodespaces_dagster_tutorial.md)
