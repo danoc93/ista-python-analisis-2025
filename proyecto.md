@@ -135,7 +135,7 @@ Ahora procederemos a automatizar todo este proceso:
 
 ---
 
-### Paso 4 — Cálculo de Métricas (una obligatoria, otras como bono)
+### Paso 4 — Cálculo de Métricas
 
 Pueden implementar la lógica con **pandas**, **DuckDB** (SQL). 
 
