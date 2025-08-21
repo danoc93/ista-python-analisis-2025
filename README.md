@@ -35,7 +35,9 @@ En este repositorio se compartiran todos los recursos aplicables a las clases, a
 
 [Aug 19, Clase 5](./Clase%205%20-%20Testing%2C%20Procesamiento%20de%20Datos.pdf)
 
-[Aug 19, Clase 6](./Clase%206%20-%20Analisis%20en%20Python.pdf)
+[Aug 20, Clase 6](./Clase%206%20-%20Analisis%20en%20Python.pdf)
+
+[Aug 21, Clase 7](./Clase%207%20-%20Pipelines%20y%20orquestrado.pdf)
 
 ### Laboratorios
 [Aug 13, Clase 2](./lab1_python_3_12_ejercicios_guiados.md)
@@ -62,4 +64,7 @@ Usar acceso: `ista2025+`
 [Clase 4](https://us06web.zoom.us/rec/share/-qAOCRS_-LPk2IjlEHKAmI8E8hjx62KIvpxD50JdJ3J_dpj-j9zbHaYtatiQceHE.B5Ka9XqwDcDyrdj8)
 
 [Clase 5](https://us06web.zoom.us/rec/share/EspgLfoR4p0W7hbIJBoFnAof976_Jk4ShLLX1JZoJwtre8LXeNJvik0iL-S7IUu1.E8n0_MamUOxEDVfr )
+
+[Clase 6](https://us06web.zoom.us/rec/share/PWSyQyb8baQrsefJeqyxa2rEqasGjnu1pCaiu4uFVeg4jAdSSRd_YX5N-EmzPpzU.23_XWSkHCBqdnWXA)
+
 
