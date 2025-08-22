@@ -69,4 +69,6 @@ Usar acceso: `ista2025+`
 
 [Clase 6](https://us06web.zoom.us/rec/share/PWSyQyb8baQrsefJeqyxa2rEqasGjnu1pCaiu4uFVeg4jAdSSRd_YX5N-EmzPpzU.23_XWSkHCBqdnWXA)
 
+[Clase 7](https://us06web.zoom.us/rec/share/3tl9vNfZrF50B38llc8O-7wrxxBW2CH1tEQyRk4rturEABo-lDMt0J5U9bEZyoNB.ewZDrusY8uIclyxp)
+
 
