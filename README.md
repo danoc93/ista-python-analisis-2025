@@ -20,7 +20,7 @@ En este repositorio se compartiran todos los recursos aplicables a las clases, a
 
 - [Proyecto Final](./proyecto.md)
   
-⚠️ Fecha de cierre: 2025-08-31 11:59PM
+⚠️ Fecha de cierre: 2025-08-31 16:00
 
 Como referencia pueden usar el ejercicio de instalar Dagster en CodeSpaces https://github.com/danoc93/ejemplo-dagster
 
