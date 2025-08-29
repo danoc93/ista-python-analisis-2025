@@ -10,6 +10,7 @@ El proyecto equivale al 100% de la nota del curso.
 - El proyecto debe ejecutarse en un **entorno aislado**: GitHub Codespaces, Docker o local con `venv`.
 - Sólo se deben incluir en el repositorio los **archivos del proyecto**.
 - **No** se deben incluir snapshots completos de datos, únicamente artefactos ligeros como tablas de perfilado o reportes finales tal como indiquen las instrucciones.
+- El informe técnico debe ser incluido en el reporte en pdf
 
 ---
 
@@ -190,6 +191,8 @@ Guardar los archivos del reporte y comitealo.
 ## Informe Técnico (max. 5 páginas)
 
 > Incluir tanto detalle como sea deseado, pero limitarse a 5 páginas.
+
+Nota: Subirlo como `reporte.pdf` junto al código.
 
 1. **Arquitectura del pipeline**
    - Descripción de assets creados para los pasos. Recomendado incluir diagrama de las secciones respectivas.
